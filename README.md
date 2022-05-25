@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi friends, I'm Alfredo
+      
+##### Engineering Manager @ VMware
+      
+## 🌐 Current work 
+      
+I lead one Engineering Productivity team at VMware, helping several [VMware Tanzu](https://tanzu.vmware.com/tanzu) Product teams being more productive. We focus on improving the Developer Experience of our Engineers, by providing them with tools, metrics and platforms to be more efficient.
 
-<!--
-**agarcia-oss/agarcia-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Open source contributions
+      
+I´m a maintainer of the [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets) project. Sealed Secrets is a Kubernetes Secret management solution, released as an Open Source project by Bitnami in [2017](https://docs.bitnami.com/tutorials/sealed-secrets). It's one of the most popular GitOps solutions in the market, with more than [5K stars](https://github.com/bitnami-labs/sealed-secrets/stargazers) and over 1M downloads per month.
+      
+## 🗣️ Speaking I’ve done
+      
+All of my talks can be found on [Slideshare](https://www.slideshare.net/AlfredoGarcaLavilla/).
