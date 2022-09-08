@@ -13,3 +13,7 @@ I´m a maintainer of the [Sealed Secrets](https://github.com/bitnami-labs/sealed
 ## 🗣️ Speaking I’ve done
       
 All of my talks can be found on [Slideshare](https://www.slideshare.net/AlfredoGarcaLavilla/).
+
+## ✏️ Articles I’ve written
+           
+- [Sealed Secrets collaboration with the Aix-Marseille University (Bitnami's Blog)](https://blog.bitnami.com/2022/09/bitnami-sealed-secrets-collaborates-aix-marseille-university.html)
