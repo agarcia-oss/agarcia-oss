@@ -18,3 +18,4 @@ All of my talks can be found on [Slideshare](https://www.slideshare.net/AlfredoG
            
 - [Sealed Secrets collaboration with the Aix-Marseille University (Bitnami's Blog)](https://blog.bitnami.com/2022/09/bitnami-sealed-secrets-collaborates-aix-marseille-university.html)
 - [Elevate the Security of Your Kubernetes Secrets with VMware Application Catalog and Sealed Secrets](https://tanzu.vmware.com/content/blog/elevate-security-with-vmware-application-catalog-and-sealed-secrets)
+- [Enhance Your Helm Charts: A Deep Dive into Tanzu OSS Health Assessment](https://www.linkedin.com/pulse/enhance-your-helm-charts-deep-dive-tanzu-oss-health-garc%2525C3%2525ADa-lavilla-yiq2f/?trackingId=DFqHfMQmRmK%2B3cRb5irDPw%3D%3D)
